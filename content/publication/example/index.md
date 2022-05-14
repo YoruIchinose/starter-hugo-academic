@@ -39,7 +39,7 @@ url_pdf: ""
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
-  preview_only: false
+  preview_only: true
   filename: featured.jpg
 summary: In this article, we utilize noise dispersion as a hyperparameter to
   modulate the performance of a gain-dissipative Ising machine. The work proves
