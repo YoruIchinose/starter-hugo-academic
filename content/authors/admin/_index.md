@@ -1,11 +1,11 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
-bio: My research interests include programmable matter.
+title: Zhiqiang Liao
+role: PH.D student of Electric engineering and information system
+bio: My research interests the application of Noise-assisted Nonlinear Science in various engineering fields, including artificial intelligence, spintronics neuromorphic devices, and bioengineering.
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Spintronics Neuromorphic Devices
+  - Bioengineering
 social:
   - icon: envelope
     icon_pack: fas
