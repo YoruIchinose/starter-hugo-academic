@@ -12,27 +12,24 @@ social:
     link: /#contact
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?hl=ja&user=tDwzGdoAAAAJ&view_op=list_works&authuser=1
   - icon: researchgate
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.researchgate.net/profile/Zhiqiang-Liao-5
 organizations:
   - name: The University of Tokyo
     url: https://www.u-tokyo.ac.jp/ja/index.html
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Electric Engineering and Information System
+      institution: The University of Tokyo
+      year: In progress
+    - course: MEng in Electric Engineering and Information System
+      institution: The University of Tokyo
+      year: 2020
+    - course: BSc in Electrical Engineering and Automation
+      institution: Wuhan University
+      year: 2018
 email: ""
 superuser: true
 highlight_name: true
