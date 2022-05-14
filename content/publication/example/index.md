@@ -40,7 +40,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-  filename: cover_design_dec_28_2021_rgb.jpg
+  filename: featured.jpg
 summary: In this article, we utilize noise dispersion as a hyperparameter to
   modulate the performance of a gain-dissipative Ising machine. The work proves
   the reddening noise can suppress random spin switching, so that the Ising
@@ -57,7 +57,7 @@ publication: Quantum Analog Annealing of Gain-Dissipative Ising Machine Driven
 projects: []
 date: 2022-05-14T19:49:35.080Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
