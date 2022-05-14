@@ -1,10 +1,10 @@
 ---
 title: Zhiqiang Liao
-role: PH.D student of Electric engineering and information system
-bio: My research interests the application of Noise-assisted Nonlinear Science in various engineering fields, including artificial intelligence, spintronics neuromorphic devices, and bioengineering.
+role: PhH.D student
+bio: My research interests the application of Noise-assisted Nonlinear Science in various engineering fields, including artificial intelligence, spintronics based computing, and bioengineering.
 interests:
   - Artificial Intelligence
-  - Spintronics Neuromorphic Devices
+  - Spintronics Computing
   - Bioengineering
 social:
   - icon: envelope
@@ -16,12 +16,12 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
-  - icon: linkedin
+  - icon: researchgate
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The University of Tokyo
+    url: https://www.u-tokyo.ac.jp/ja/index.html
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -38,8 +38,8 @@ superuser: true
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am now a Ph.D student as well as Quantum Science and Technology Fellow at The University of Tokyo. My research interests the application of Noise-assisted Nonlinear Science in various engineering fields, including artificial intelligence, spintronics based computing, and bioengineering. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Recently, I am conducting the research on the Ising machine and classification of Electroencephalography.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
